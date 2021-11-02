@@ -141,3 +141,19 @@
     </td>
 </tr>
 </table>
+
+## Bike shop
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Work:https://anzhelikamikulich-wildlife.netlify.app</li>
+            <li>Key skills: work with HTML, CSS, Adaptive</li>
+            <li>10.03.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/Wildlife.png">
+    </td>
+</tr>
+</table>
