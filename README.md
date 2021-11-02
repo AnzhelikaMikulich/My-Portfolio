@@ -30,12 +30,12 @@
     <td>
         <ul>
             <li>Task: https://github.com/DrDiman/CSS-Mem-Slider</li>
-            <li>Work: https://golubeva-webmaster.github.io/cssMemSlider/cssMemSlider/index.html</li>
+            <li>Work:https://anzhelikamikulich.github.io/cssMemSlider/cssMemSlider/index.html</li>
             <li>Key skills: css slider without JavaScript</li>
             <li>17.10.2021</li>
     </td>
     <td width="40%">
-        <img src="img/cssslider.png">
+        <img src="img/cssSlider.png">
     </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
     <td>
         <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-dom.md</li>
-            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q3/museum-dom/</li>
+            <li>Work: https://rolling-scopes-school.github.io/anzhelikamikulich-JSFE2021Q3/museum-dom/</li>
             <li>Key skills: slider, compare images slider, HTML5 player, gallery animation, tickets calculator, form valudation, interactive map</li>
             <li>10.10.2021</li>
     </td>
     <td width="40%">
-        <img src="img/museum2.png">
+        <img src="img/Museum.png">
     </td>
 </tr>
 </table>
@@ -64,12 +64,12 @@
     <td>
         <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md</li>
-            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/match-match-game/</li>
-            <li>Key skills: TypoScript, webpack, OOP</li>
+            <li>Work: https://anzhelikamikulich-match-match-game.netlify.app/</li>
+            <li>Key skills: TypeScript, webpack, OOP</li>
             <li>31.05.2021</li>
     </td>
     <td width="40%">
-        <img src="img/match-match-g.png">
+        <img src="img/MatchGame.png">
     </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
     <td>
         <ul>
             <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/photo-filter</li>
-            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/photo-filter/</li>
+            <li>Work: https://rolling-scopes-school.github.io/anzhelikamikulich-JSFEPRESCHOOL/Fotofilter/</li>
             <li>Key skills: work with files, upload local files, save files to computer, work with Date, Canvas API</li>
             <li>24.04.2021</li>
     </td>
     <td width="40%">
-        <img src="img/photo-filter.png">
+        <img src="img/Photofilter.png">
     </td>
 </tr>
 </table>
@@ -97,13 +97,13 @@
 <tr>
     <td>
         <ul>
-            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/online-zoo/variant-2</li>
-            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/online-zoo/</li>
+            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/online-zoo/variant-5</li>
+            <li>Work: https://anzhelikamikulich.github.io/Online-Zoo/online-zoo/pages/Landing/index.html</li>
             <li>Key skills: layout for desktop skrins, adaptive for 1920px, 1200px. JS: multi-popups whith form, automatic carousel, sliders: horizontal and vertical</li>
             <li>April 2021</li>
     </td>
     <td width="40%">
-        <img src="img/online-zoo.png">
+        <img src="img/ZooWebsite.png">
     </td>
 </tr>
 </table>
@@ -115,12 +115,29 @@
     <td>
         <ul>
             <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano</li>
-            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/virtual-piano/</li>
+            <li>Work:https://rolling-scopes-school.github.io/anzhelikamikulich-JSFEPRESCHOOL/drum-kit/</li>
             <li>Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events</li>
             <li>17.03.2021</li>
     </td>
     <td width="40%">
-        <img src="img/virtual-piano.jpg">
+        <img src="img/VirtualPiano.png">
+    </td>
+</tr>
+</table>
+
+## Virtual-piano
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano</li>
+            <li>Work:https://rolling-scopes-school.github.io/anzhelikamikulich-JSFEPRESCHOOL/drum-kit/</li>
+            <li>Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events</li>
+            <li>17.03.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/VirtualPiano.png">
     </td>
 </tr>
 </table>
