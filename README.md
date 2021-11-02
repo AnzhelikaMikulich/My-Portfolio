@@ -125,19 +125,19 @@
 </tr>
 </table>
 
-## Virtual-piano
+## Wildlife
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano</li>
-            <li>Work:https://rolling-scopes-school.github.io/anzhelikamikulich-JSFEPRESCHOOL/drum-kit/</li>
-            <li>Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events</li>
-            <li>17.03.2021</li>
+            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/wildlife</li>
+            <li>Work:https://anzhelikamikulich-wildlife.netlify.app</li>
+            <li>Key skills: work with HTML, CSS, Slider</li>
+            <li>10.03.2021</li>
     </td>
     <td width="40%">
-        <img src="img/VirtualPiano.png">
+        <img src="img/Wildlife.png">
     </td>
 </tr>
 </table>
