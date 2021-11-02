@@ -24,4 +24,4 @@ Below you can find links to my lincedlin, CV and Portfolio:
 
 - [linkedlin](https://www.linkedin.com/in/anzhelika-mikulich-352153205/)
 - [Curriculum Vitae](https://anzhelikamikulich.github.io/rsschool-cv/)
-- Portfolio
+- [Portfolio](https://github.com/AnzhelikaMikulich/My-Portfolio/blob/master/README.md)

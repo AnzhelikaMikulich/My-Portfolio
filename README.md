@@ -3,7 +3,7 @@
 - [Self introduction](https://www.youtube.com/watch?v=820mRa5XTgQ&ab_channel=%D0%90%D0%BD%D0%B6%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%A4%D0%BB%D1%91%D1%80%D0%BA%D0%BE)
 - [Linkedlin](https://www.linkedin.com/in/anzhelika-mikulich-352153205/)
 - [Curriculum Vitae](https://anzhelikamikulich.github.io/rsschool-cv/)
-- Portfolio
+- [Portfolio](https://github.com/AnzhelikaMikulich/My-Portfolio/blob/master/README.md)
 - [RSSCHool JavaScript Front-end Pre-School sertificate](https://app.rs.school/certificate/qxyy41wd)
 
 ## Momentum
@@ -148,12 +148,12 @@
 <tr>
     <td>
         <ul>
-            <li>Work:https://anzhelikamikulich-wildlife.netlify.app</li>
+            <li>Work:https://anzhelikamikulich.github.io/firstproject_Adaptiv/</li>
             <li>Key skills: work with HTML, CSS, Adaptive</li>
             <li>10.03.2021</li>
     </td>
     <td width="40%">
-        <img src="img/Wildlife.png">
+        <img src="img/BikeShop.png">
     </td>
 </tr>
 </table>
